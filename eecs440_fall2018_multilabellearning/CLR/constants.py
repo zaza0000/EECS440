@@ -1,0 +1,4 @@
+DATASET_NAME = "yeast"
+N_FOLDS = 5
+NUM_BINS = 10
+M = -1
